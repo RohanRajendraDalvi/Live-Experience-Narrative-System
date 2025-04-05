@@ -59,7 +59,7 @@ This is a powerful tool. Always respect privacy laws and obtain proper consent b
 
 ---
 
-## 📅 Launch Date
+## 📅 Concept Date
 
 **April 4, 2025** – the future of content creation is wearable.
 
