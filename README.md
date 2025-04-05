@@ -28,6 +28,8 @@ Our onboard AI system processes the raw footage into **scripts, short-form conte
 
 - **Hands-Free Recording** – HD video + directional audio capture from your POV.
 - **Auto Content Generator** – AI parses footage into:
+  - podcast
+  - podcast snippets
   - Scripted content
   - Short clips
   - Long-form edits
