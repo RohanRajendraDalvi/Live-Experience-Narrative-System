@@ -1,4 +1,4 @@
-# **LENS: Live Experience Narrative System**  
+#Live Experience Narrative System**  
 **Your Life. Your Story. Your Content.**
 
 > Glasses with an embedded camera, microphone, and AI-powered life recorder.  
